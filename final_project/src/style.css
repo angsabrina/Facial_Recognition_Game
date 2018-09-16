@@ -1,0 +1,26 @@
+h1, h2, h3, h4{
+  font-family: "Courier New";
+}
+
+button {
+    background-color: white; /* Green */
+    border: none;
+    color: black;
+    font-family: "Courier New";
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+body {
+  background-color: #FA6304;
+}
+
+video, img {
+  margin-left: 30px;
+}
